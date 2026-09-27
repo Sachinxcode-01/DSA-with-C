@@ -1,0 +1,11 @@
+# Compiled executables and objects
+*.exe
+*.o
+*.obj
+*.out
+output/
+**/output/
+
+# OS specific files
+.DS_Store
+Thumbs.db
