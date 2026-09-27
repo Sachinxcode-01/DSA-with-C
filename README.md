@@ -52,6 +52,7 @@ DSAwithC/
 │   └── banner.png                  # Project banner (16:9)
 ├── 01-C-Basics/
 │   ├── hello.c                     # Hello World & basic I/O
+│   ├── data_types.c                # Primitive data types (int, float, double, char)
 │   ├── variables.c                 # Variables, primitive data types & format specifiers
 │   └── variable_calculation.c      # Arithmetic operations & calculations
 ├── .vscode/
@@ -66,6 +67,7 @@ DSAwithC/
 ## 💻 Code Highlights (`01-C-Basics`)
 
 - [`hello.c`](./01-C-Basics/hello.c): Standard introduction to basic C structure and console output.
+- [`data_types.c`](./01-C-Basics/data_types.c): Demonstrates primitive data types (`int`, `float`, `double`, `char`) and precise formatted printing.
 - [`variables.c`](./01-C-Basics/variables.c): Demonstrates integer, float, character, and string variables along with formatting specifiers (`%d`, `%f`, `%c`, `%s`).
 - [`variable_calculation.c`](./01-C-Basics/variable_calculation.c): Covers basic arithmetic operations (sum, difference, product) and formatted outputs.
 
