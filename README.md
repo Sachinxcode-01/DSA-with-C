@@ -54,7 +54,9 @@ DSAwithC/
 │   ├── hello.c                     # Hello World & basic I/O
 │   ├── data_types.c                # Primitive data types (int, float, double, char)
 │   ├── variables.c                 # Variables, primitive data types & format specifiers
-│   └── variable_calculation.c      # Arithmetic operations & calculations
+│   ├── variable_calculation.c      # Arithmetic operations & calculations
+│   ├── arithmetic_operators.c      # Binary arithmetic operators (+, -, *, /, %)
+│   └── relational_operators.c      # Relational/comparison operators (>, <, ==, !=)
 ├── .vscode/
 │   ├── launch.json                 # Debugger configuration
 │   └── tasks.json                  # GCC build tasks
@@ -70,6 +72,8 @@ DSAwithC/
 - [`data_types.c`](./01-C-Basics/data_types.c): Demonstrates primitive data types (`int`, `float`, `double`, `char`) and precise formatted printing.
 - [`variables.c`](./01-C-Basics/variables.c): Demonstrates integer, float, character, and string variables along with formatting specifiers (`%d`, `%f`, `%c`, `%s`).
 - [`variable_calculation.c`](./01-C-Basics/variable_calculation.c): Covers basic arithmetic operations (sum, difference, product) and formatted outputs.
+- [`arithmetic_operators.c`](./01-C-Basics/arithmetic_operators.c): Demonstrates addition, subtraction, multiplication, integer division, and modulus operations.
+- [`relational_operators.c`](./01-C-Basics/relational_operators.c): Demonstrates comparison conditions producing boolean evaluations (1 for True, 0 for False).
 
 ---
 
