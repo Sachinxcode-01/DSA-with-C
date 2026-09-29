@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD033 MD041 MD023 -->
 <div align="center">
 
   <img src="assets/banner.png" alt="DSA with C Banner" width="100%" />
@@ -7,11 +8,12 @@
   **A structured, hands-on roadmap to mastering Data Structures and Algorithms from ground up using pure C.**
 
   [![Language](https://img.shields.io/badge/Language-C99%20%2F%20C11-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](#)
-  [![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)](#)
+  [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-blue?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/)
+  [![Status](https://img.shields.io/badge/Status-Active%20Learning-success?style=for-the-badge)](https://github.com/)
   [![License](https://img.shields.io/badge/License-MIT-purple?style=for-the-badge)](LICENSE)
 
 </div>
+<!-- markdownlint-enable MD033 MD041 MD023 -->
 
 ---
 
@@ -26,21 +28,23 @@ Every concept is accompanied by clean, well-commented code implementations desig
 ## 🧭 Learning Roadmap & Progress
 
 | # | Topic Module | Description | Status |
-|---|--------------|-------------|:------:|
-| 01 | **[01-C-Basics](./01-C-Basics/)** | Syntax, Data Types, Variables, Arithmetic Operations, I/O | 🟡 In Progress |
-| 02 | **Control Flow & Loops** | If-Else, Switch-Case, For/While/Do-While Loops | ⚪ Upcoming |
-| 03 | **Functions & Scope** | Modular programming, Call by Value/Reference, Scope rules | ⚪ Upcoming |
-| 04 | **Arrays & Strings** | 1D/2D Arrays, String manipulations, Memory layout | ⚪ Upcoming |
-| 05 | **Pointers & Dynamic Memory** | Pointer arithmetic, `malloc`, `calloc`, `realloc`, `free` | ⚪ Upcoming |
-| 06 | **Structures & Unions** | Custom data structures, Nested structs, Self-referential structs | ⚪ Upcoming |
-| 07 | **Linked Lists** | Singly, Doubly, and Circular Linked Lists | ⚪ Upcoming |
-| 08 | **Stacks & Queues** | Array & Linked list implementations, Applications | ⚪ Upcoming |
-| 09 | **Trees & Binary Search Trees** | Traversals (Inorder, Preorder, Postorder, BFS), BST operations | ⚪ Upcoming |
-| 10 | **Heaps & Priority Queues** | Min-Heap, Max-Heap, Heap Sort | ⚪ Upcoming |
-| 11 | **Hashing & Hash Maps** | Collision handling, Chaining, Open Addressing | ⚪ Upcoming |
-| 12 | **Graphs & Graph Algorithms** | BFS, DFS, Dijkstra, Prim, Kruskal | ⚪ Upcoming |
-| 13 | **Searching & Sorting** | Binary Search, Quick Sort, Merge Sort, etc. | ⚪ Upcoming |
-| 14 | **Dynamic Programming & Recursion** | Memoization, Tabulation, Classic DP problems | ⚪ Upcoming |
+| --- | --- | --- | :---: |
+| 01 | **[01-C-Basics](./01-C-Basics/)** | Syntax, Data Types, Variables, Arithmetic & Logical Operations, I/O | 🟡 In Progress |
+| 02 | **[02-Control-Flow](./02-Control-Flow/)** | If-Else, Switch-Case, For/While/Do-While Loops | ⚪ Upcoming |
+| 03 | **[03-Functions-Scope](./03-Functions-Scope/)** | Modular programming, Call by Value/Reference, Scope rules | ⚪ Upcoming |
+| 04 | **[04-Arrays-Strings](./04-Arrays-Strings/)** | 1D/2D Arrays, String manipulations, Memory layout | ⚪ Upcoming |
+| 05 | **[05-Pointers-Memory](./05-Pointers-Memory/)** | Pointer arithmetic, `malloc`, `calloc`, `realloc`, `free`, double pointers | ⚪ Upcoming |
+| 06 | **[06-Structures-Unions](./06-Structures-Unions/)** | Custom data structures, Nested structs, Self-referential structs | ⚪ Upcoming |
+| 07 | **[07-Linked-Lists](./07-Linked-Lists/)** | Singly, Doubly, and Circular Linked Lists | ⚪ Upcoming |
+| 08 | **[08-Stacks-Queues](./08-Stacks-Queues/)** | Array & Linked list implementations, Applications | ⚪ Upcoming |
+| 09 | **[09-Trees](./09-Trees/)** | Traversals (Inorder, Preorder, Postorder, BFS), BST operations | ⚪ Upcoming |
+| 10 | **[10-Heaps-Priority-Queues](./10-Heaps-Priority-Queues/)** | Min-Heap, Max-Heap, Heap Sort | ⚪ Upcoming |
+| 11 | **[11-Hashing](./11-Hashing/)** | Collision handling, Chaining, Open Addressing | ⚪ Upcoming |
+| 12 | **[12-Graphs](./12-Graphs/)** | BFS, DFS, Dijkstra, Prim, Kruskal | ⚪ Upcoming |
+| 13 | **[13-Searching-Sorting](./13-Searching-Sorting/)** | Binary Search, Quick Sort, Merge Sort, Counting Sort | ⚪ Upcoming |
+| 14 | **[14-Recursion-Backtracking](./14-Recursion-Backtracking/)** | Subsets, Permutations, N-Queens, Maze algorithms | ⚪ Upcoming |
+| 15 | **[15-Dynamic-Programming](./15-Dynamic-Programming/)** | Memoization, Tabulation, Knapsack, LCS | ⚪ Upcoming |
+| 16 | **[16-Greedy-Algorithms](./16-Greedy-Algorithms/)** | Activity Selection, Fractional Knapsack, Huffman Coding | ⚪ Upcoming |
 
 ---
 
@@ -49,19 +53,43 @@ Every concept is accompanied by clean, well-commented code implementations desig
 ```plaintext
 DSAwithC/
 ├── assets/
-│   └── banner.png                  # Project banner (16:9)
+│   └── banner.png                  # Project banner
+├── utils/
+│   └── dsa_utils.h                 # Reusable DSA test & helper utilities
+├── docs/
+│   └── README.md                   # Big-O cheatsheet & memory debugging guides
+├── practice-problems/
+│   └── README.md                   # LeetCode / competitive programming problems
 ├── 01-C-Basics/
+│   ├── README.md                   # Module guide & notes
 │   ├── hello.c                     # Hello World & basic I/O
 │   ├── data_types.c                # Primitive data types (int, float, double, char)
-│   ├── variables.c                 # Variables, primitive data types & format specifiers
+│   ├── variables.c                 # Variables & format specifiers
 │   ├── variable_calculation.c      # Arithmetic operations & calculations
-│   ├── arithmetic_operators.c      # Binary arithmetic operators (+, -, *, /, %)
-│   └── relational_operators.c      # Relational/comparison operators (>, <, ==, !=)
+│   ├── arithmetic_operators.c      # Arithmetic operators (+, -, *, /, %)
+│   ├── relational_operators.c      # Relational operators (>, <, ==, !=)
+│   └── logical_operators.c         # Logical operators (&&, ||, !)
+├── 02-Control-Flow/
+├── 03-Functions-Scope/
+├── 04-Arrays-Strings/
+├── 05-Pointers-Memory/
+├── 06-Structures-Unions/
+├── 07-Linked-Lists/
+├── 08-Stacks-Queues/
+├── 09-Trees/
+├── 10-Heaps-Priority-Queues/
+├── 11-Hashing/
+├── 12-Graphs/
+├── 13-Searching-Sorting/
+├── 14-Recursion-Backtracking/
+├── 15-Dynamic-Programming/
+├── 16-Greedy-Algorithms/
 ├── .vscode/
-│   ├── launch.json                 # Debugger configuration
-│   └── tasks.json                  # GCC build tasks
-├── .gitignore                      # Git ignore rules for build artifacts
-└── README.md                       # Project documentation
+│   ├── c_cpp_properties.json
+│   ├── launch.json
+│   └── settings.json
+├── .gitignore
+└── README.md
 ```
 
 ---
@@ -82,11 +110,13 @@ DSAwithC/
 ### Prerequisites
 
 You need a C compiler installed on your system:
+
 - **Windows:** [MinGW-w64](https://www.mingw-w64.org/) or [MSYS2](https://www.msys2.org/)
 - **Linux:** `sudo apt install build-essential`
 - **macOS:** `xcode-select --install`
 
 Verify your compiler:
+
 ```bash
 gcc --version
 ```
@@ -102,6 +132,7 @@ gcc 01-C-Basics/variable_calculation.c -o 01-C-Basics/variable_calculation
 ```
 
 On Windows (Command Prompt / PowerShell):
+
 ```powershell
 gcc 01-C-Basics/variable_calculation.c -o 01-C-Basics/variable_calculation.exe
 .\01-C-Basics\variable_calculation.exe
