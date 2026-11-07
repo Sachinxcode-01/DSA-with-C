@@ -12,6 +12,7 @@
 #include <stdio.h>
 
 int main(void) {
+    //Declaration
     int number;
     printf("Enter a Number :");
     scanf("%d", &number);
