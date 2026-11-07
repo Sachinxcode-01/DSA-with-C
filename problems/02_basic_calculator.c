@@ -19,11 +19,11 @@ int main()
         {
             printf("Division = %d\n",a/b);
             printf("Reminder = %d\n",a%b);
+
+        }else{
+            
+            printf("Invalid!");
         }
-    else
-    {
-        printf("Invalid!");
-    }
     
 
     return 0;
