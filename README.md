@@ -124,6 +124,7 @@ DSAwithC/
 │   └── while_even_numbers.c           # Iterative even number extraction
 │
 ├── problems/                          # Graded Problem Solving Sets
+│   ├── README.md                      # Problem tiers and category index
 │   ├── Level-01/                      # Foundations: I/O, Math & Conditionals
 │   │   ├── 01_personal_info.c         # Formatted data representation
 │   │   ├── 02_basic_calculator.c      # Safe arithmetic engine with zero-check
