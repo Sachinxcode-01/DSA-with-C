@@ -108,7 +108,8 @@ DSAwithC/
 │   ├── while_loop.c                   # Pre-test condition iterations
 │   ├── do_while_loop.c                # Post-test condition iterations
 │   ├── nested_loops.c                 # 2D coordinate loop patterns
-│   └── break_statement.c              # Loop termination control
+│   ├── break_statement.c              # Loop termination control
+│   └── continue_statement.c           # Skipping iteration control
 │
 ├── practice/                          # Core concept practice modules
 │   ├── 13_else_if_practice.c          # Real-world else-if validation

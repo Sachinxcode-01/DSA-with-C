@@ -57,6 +57,7 @@ This module establishes the core building blocks of the C programming language r
   - [`do_while_loop.c`](./do_while_loop.c)
   - [`nested_loops.c`](./nested_loops.c)
   - [`break_statement.c`](./break_statement.c)
+  - [`continue_statement.c`](./continue_statement.c)
 
 ---
 
@@ -83,6 +84,7 @@ This module establishes the core building blocks of the C programming language r
 | [`do_while_loop.c`](./do_while_loop.c) | Loops | Post-tested condition iteration |
 | [`nested_loops.c`](./nested_loops.c) | Patterns | 3x3 square matrix iteration using nested loops |
 | [`break_statement.c`](./break_statement.c) | Control Jump | Premature loop termination using `break` |
+| [`continue_statement.c`](./continue_statement.c) | Control Jump | Skipping loop iteration using `continue` |
 
 ---
 
