@@ -9,7 +9,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 | Tier | Directory | Focus Area | Problems Count |
 | :--- | :--- | :--- | :---: |
 | **Level-01** | [`Level-01/`](./Level-01/) | I/O, Formatting, Operators & Conditional Branching | 10 Problems |
-| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials & 2D Patterns | 10 Problems |
+| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials & 2D Patterns | 11 Problems |
 
 ---
 
@@ -38,6 +38,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 18. [`18_square_pattern.c`](./Level-02/18_square_pattern.c) — 5x5 Square star matrix with nested loops.
 19. [`19_triangle_pattern.c`](./Level-02/19_triangle_pattern.c) — Dependent nested loops for right-angled triangles.
 20. [`20_tables_pattern.c`](./Level-02/20_tables_pattern.c) — Nested loops generating multiplication tables 1 to 5.
+21. [`22_continue_practice.c`](./Level-02/22_continue_practice.c) — Odd number filtering using `continue` on evens.
 
 ---
 

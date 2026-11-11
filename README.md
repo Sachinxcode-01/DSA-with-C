@@ -3,7 +3,6 @@
 
   <img src="assets/banner.png" alt="DSA with C Banner" width="100%" />
 
-
   # Data Structures & Algorithms with C 🚀
   
   **A structured, hands-on, bare-metal journey to mastering Data Structures and Algorithms from scratch using pure C.**
@@ -19,9 +18,7 @@
 
 ---
 
-
 ## 📌 Table of Contents
-
 
 - [Overview](#-overview)
 - [Why Learn DSA in C?](#-why-learn-dsa-in-c)
@@ -57,7 +54,6 @@ Unlike higher-level languages that abstract memory management behind automatic g
 3. **Universal Foundation:** Concepts mastered here seamlessly translate to Systems Programming, Operating Systems, Embedded Systems, C++, Rust, and Computer Architecture.
 
 ---
-
 
 ## 🧭 Curriculum & Learning Roadmap
 
@@ -148,7 +144,8 @@ DSAwithC/
 │       ├── 17_input_until_zero.c      # Sentinel-controlled input loop
 │       ├── 18_square_pattern.c        # 5x5 Square star matrix
 │       ├── 19_triangle_pattern.c      # Dynamic right-angled triangle
-│       └── 20_tables_pattern.c        # Nested multiplication table (1 to 5)
+│       ├── 20_tables_pattern.c        # Nested multiplication table (1 to 5)
+│       └── 22_continue_practice.c     # Odd number filter using continue
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration
@@ -189,9 +186,9 @@ DSAwithC/
 | **18** | [`18_square_pattern.c`](./problems/Level-02/18_square_pattern.c) | 2D nested loops | $5 \times 5$ square star grid |
 | **19** | [`19_triangle_pattern.c`](./problems/Level-02/19_triangle_pattern.c) | Dependent nested loops (`j <= i`) | Right-angled star triangle |
 | **20** | [`20_tables_pattern.c`](./problems/Level-02/20_tables_pattern.c) | Dual-level nested loops | Complete tables for numbers 1 through 5 |
+| **21** | [`22_continue_practice.c`](./problems/Level-02/22_continue_practice.c) | Skip iteration (`continue`) | Filter and display odd numbers (0 to 10) |
 
 ---
-
 
 ## ⚙️ Getting Started & Compilation
 
@@ -208,7 +205,6 @@ Verify installation:
 ```bash
 gcc --version
 ```
-
 
 ### Compiling and Running
 
