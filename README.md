@@ -62,7 +62,7 @@ Unlike higher-level languages that abstract memory management behind automatic g
 | **01** | **[01-C-Basics](./01-C-Basics/)** | Syntax, Data Types, Operators, Conditionals, Loops, Jump Statements | 🟢 Complete |
 | **02** | **[Practice & Problems](./problems/)** | Level-01 (Basics & Logic) & Level-02 (Loops, Patterns, Factorials) | 🟢 28+ Solved |
 | **03** | **[02-Control-Flow](./02-Control-Flow/)** | Advanced Decision Making, State Machines, Nested Evaluations | 🟡 In Progress |
-| **04** | **[03-Functions-Scope](./03-Functions-Scope/)** | Call by Value vs Reference, Recursion Foundations, Storage Classes | ⚪ Scheduled |
+| **04** | **[03-Functions-Scope](./03-Functions-Scope/)** | Call by Value vs Reference, Recursion Foundations, Storage Classes | 🟡 In Progress |
 | **05** | **[04-Arrays-Strings](./04-Arrays-Strings/)** | 1D/2D Matrix Operations, String Manipulation, Pointer Decays | ⚪ Scheduled |
 | **06** | **[05-Pointers-Memory](./05-Pointers-Memory/)** | Pointer Arithmetic, Double Pointers, Heap Allocation (`malloc`/`free`) | ⚪ Scheduled |
 | **07** | **[06-Structures-Unions](./06-Structures-Unions/)** | Padding, Alignment, Self-Referential Structs, Type Definitions | ⚪ Scheduled |
@@ -146,6 +146,9 @@ DSAwithC/
 │       ├── 19_triangle_pattern.c      # Dynamic right-angled triangle
 │       ├── 20_tables_pattern.c        # Nested multiplication table (1 to 5)
 │       └── 22_continue_practice.c     # Odd number filter using continue
+│
+├── 03-Functions-Scope/                # Modular programming & variable scope
+│   └── function_intro.c               # Function declaration, call & definition
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration
