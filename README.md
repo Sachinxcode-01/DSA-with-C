@@ -145,7 +145,9 @@ DSAwithC/
 │       ├── 18_square_pattern.c        # 5x5 Square star matrix
 │       ├── 19_triangle_pattern.c      # Dynamic right-angled triangle
 │       ├── 20_tables_pattern.c        # Nested multiplication table (1 to 5)
-│       └── 22_continue_practice.c     # Odd number filter using continue
+│       ├── 22_continue_practice.c     # Odd number filter using continue
+│       ├── 23_welcome_function.c      # Basic function prototype and calls
+│       └── 24_function_parameters_practice.c # Function with parameters
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   └── function_intro.c               # Function declaration, call & definition
@@ -190,6 +192,8 @@ DSAwithC/
 | **19** | [`19_triangle_pattern.c`](./problems/Level-02/19_triangle_pattern.c) | Dependent nested loops (`j <= i`) | Right-angled star triangle |
 | **20** | [`20_tables_pattern.c`](./problems/Level-02/20_tables_pattern.c) | Dual-level nested loops | Complete tables for numbers 1 through 5 |
 | **21** | [`22_continue_practice.c`](./problems/Level-02/22_continue_practice.c) | Skip iteration (`continue`) | Filter and display odd numbers (0 to 10) |
+| **22** | [`23_welcome_function.c`](./problems/Level-02/23_welcome_function.c) | Modular functions | Function declaration, call & definition |
+| **23** | [`24_function_parameters_practice.c`](./problems/Level-02/24_function_parameters_practice.c) | Function parameters | Passing integer arguments to functions |
 
 ---
 
