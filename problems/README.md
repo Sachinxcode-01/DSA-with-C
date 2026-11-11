@@ -29,6 +29,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 10. [`10_sum_natural_numbers.c`](./Level-01/10_sum_natural_numbers.c) — Series accumulator loop.
 
 ### 🔵 [Level-02: Loops, Math & 2D Patterns](./Level-02/)
+
  1. [`11_even_numbers.c`](./Level-02/11_even_numbers.c) — Filtering even numbers in range 1 to 100.
  2. [`12_odd_numbers.c`](./Level-02/12_odd_numbers.c) — Stride iteration (`i += 2`) up to 50.
  3. [`13_multiplication_table.c`](./Level-02/13_multiplication_table.c) — Dynamic table output with format specifiers.
