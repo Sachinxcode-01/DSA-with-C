@@ -152,7 +152,8 @@ DSAwithC/
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   ├── function_intro.c               # Function declaration, call & definition
-│   └── function_parameters.c          # Formal parameters & argument passing
+│   ├── function_parameters.c          # Formal parameters & argument passing
+│   └── function_return.c              # Returning values from functions
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration

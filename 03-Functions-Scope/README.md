@@ -21,6 +21,7 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 |---------|----------------------|
 | [`function_intro.c`](./function_intro.c) | Function prototype, caller structure, definition |
 | [`function_parameters.c`](./function_parameters.c) | Passing arguments and receiving parameters by value |
+| [`function_return.c`](./function_return.c) | Returning values and capturing output in callers |
 | `function_basics.c` | Prototypes, return values, pure functions |
 | `call_by_value_vs_reference.c` | Swapping variables, pointer parameters |
 | `storage_classes.c` | Static persistent counters vs local variables |
