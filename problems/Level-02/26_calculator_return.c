@@ -39,3 +39,15 @@ int multiply(int a, int b){
 float divide(int a, int b){
     return (float)a/b;
 }
+
+
+/*
+=====Calculation By Return Value=====
+Enter the value of a = 20
+Enter the Value of b = 20
+Addition =40
+Substraction =0
+Multipication =400
+Division =1.00
+
+*/
