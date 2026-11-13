@@ -147,7 +147,8 @@ DSAwithC/
 │       ├── 20_tables_pattern.c        # Nested multiplication table (1 to 5)
 │       ├── 22_continue_practice.c     # Odd number filter using continue
 │       ├── 23_welcome_function.c      # Basic function prototype and calls
-│       └── 24_function_parameters_practice.c # Function with parameters
+│       ├── 24_function_parameters_practice.c # Function with parameters
+│       └── 25_calculator_function.c   # Multi-operation calculator function
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   ├── function_intro.c               # Function declaration, call & definition
@@ -195,6 +196,7 @@ DSAwithC/
 | **21** | [`22_continue_practice.c`](./problems/Level-02/22_continue_practice.c) | Skip iteration (`continue`) | Filter and display odd numbers (0 to 10) |
 | **22** | [`23_welcome_function.c`](./problems/Level-02/23_welcome_function.c) | Modular functions | Function declaration, call & definition |
 | **23** | [`24_function_parameters_practice.c`](./problems/Level-02/24_function_parameters_practice.c) | Function parameters | Passing integer arguments to functions |
+| **24** | [`25_calculator_function.c`](./problems/Level-02/25_calculator_function.c) | Multi-parameter functions | Safe arithmetic calculator function |
 
 ---
 

@@ -9,7 +9,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 | Tier | Directory | Focus Area | Problems Count |
 | :--- | :--- | :--- | :---: |
 | **Level-01** | [`Level-01/`](./Level-01/) | I/O, Formatting, Operators & Conditional Branching | 10 Problems |
-| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns & Functions | 13 Problems |
+| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns & Functions | 14 Problems |
 
 ---
 
@@ -43,6 +43,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 11. [`22_continue_practice.c`](./Level-02/22_continue_practice.c) — Odd number filtering using `continue` on evens.
 12. [`23_welcome_function.c`](./Level-02/23_welcome_function.c) — Reusable greet function prototype & definition.
 13. [`24_function_parameters_practice.c`](./Level-02/24_function_parameters_practice.c) — Function with integer parameters.
+14. [`25_calculator_function.c`](./Level-02/25_calculator_function.c) — Arithmetic operations delegated to a modular function.
 
 ---
 
