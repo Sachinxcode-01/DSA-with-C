@@ -30,10 +30,10 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 | [`local_scope.c`](./local_scope.c) | Local variable declaration & block-level lifetime |
 | [`global_scope.c`](./global_scope.c) | Global variable access across multiple functions |
 | [`static_variable.c`](./static_variable.c) | Static storage class persisting state between calls |
+| [`recursion_intro.c`](./recursion_intro.c) | Introduction to recursion, base cases & call stack |
 | `function_basics.c` | Prototypes, return values, pure functions |
 | `call_by_value_vs_reference.c` | Swapping variables, pointer parameters |
 | `storage_classes.c` | Static persistent counters vs local variables |
-| `recursion_intro.c` | Factorial, Fibonacci, visual stack trace |
 
 ---
 

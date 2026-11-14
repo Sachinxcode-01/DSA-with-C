@@ -165,7 +165,8 @@ DSAwithC/
 │   ├── 27_function_types_practice.c   # Practice problems on function types
 │   ├── local_scope.c                  # Function variable scope & lifetime
 │   ├── global_scope.c                 # Global scope & file-level lifetime
-│   └── static_variable.c              # Static persistence between invocations
+│   ├── static_variable.c              # Static persistence between invocations
+│   └── recursion_intro.c              # Basic recursion with base conditions
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration
