@@ -158,7 +158,8 @@ DSAwithC/
 │   ├── type1_no_parameters_no_return.c # Type 1: No parameters & no return
 │   ├── type2_parameters_no_return.c   # Type 2: Parameters & no return
 │   ├── type3_no_parameters_return.c   # Type 3: No parameters & value return
-│   └── type4_parameters_return.c     # Type 4: Parameters & value return
+│   ├── type4_parameters_return.c     # Type 4: Parameters & value return
+│   └── 27_function_types_practice.c   # Practice problems on function types
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration
