@@ -149,7 +149,9 @@ DSAwithC/
 │       ├── 23_welcome_function.c      # Basic function prototype and calls
 │       ├── 24_function_parameters_practice.c # Function with parameters
 │       ├── 25_calculator_function.c   # Multi-operation calculator function
-│       └── 26_calculator_return.c     # Calculation using returned values
+│       ├── 26_calculator_return.c     # Calculation using returned values
+│       ├── 27_function_types_practice.c # 4 Function parameter/return variants
+│       └── 28_local_global_scope.c    # Global vs local scope demonstration
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   ├── function_intro.c               # Function declaration, call & definition
@@ -207,6 +209,8 @@ DSAwithC/
 | **23** | [`24_function_parameters_practice.c`](./problems/Level-02/24_function_parameters_practice.c) | Function parameters | Passing integer arguments to functions |
 | **24** | [`25_calculator_function.c`](./problems/Level-02/25_calculator_function.c) | Multi-parameter functions | Safe arithmetic calculator function |
 | **25** | [`26_calculator_return.c`](./problems/Level-02/26_calculator_return.c) | Value-returning functions | Arithmetic functions returning calculation results |
+| **26** | [`27_function_types_practice.c`](./problems/Level-02/27_function_types_practice.c) | 4 Function paradigms | All 4 permutations of parameters and return values |
+| **27** | [`28_local_global_scope.c`](./problems/Level-02/28_local_global_scope.c) | Variable scoping | Global vs local lifetime and accessibility |
 
 ---
 

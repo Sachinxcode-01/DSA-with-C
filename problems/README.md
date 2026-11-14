@@ -9,7 +9,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 | Tier | Directory | Focus Area | Problems Count |
 | :--- | :--- | :--- | :---: |
 | **Level-01** | [`Level-01/`](./Level-01/) | I/O, Formatting, Operators & Conditional Branching | 10 Problems |
-| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns & Functions | 15 Problems |
+| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns & Functions | 17 Problems |
 
 ---
 
@@ -45,6 +45,8 @@ A curated, two-tier collection of graded programming challenges designed to tran
 13. [`24_function_parameters_practice.c`](./Level-02/24_function_parameters_practice.c) — Function with integer parameters.
 14. [`25_calculator_function.c`](./Level-02/25_calculator_function.c) — Arithmetic operations delegated to a modular function.
 15. [`26_calculator_return.c`](./Level-02/26_calculator_return.c) — Value-returning arithmetic functions (`add`, `subtract`, `multiply`, `divide`).
+16. [`27_function_types_practice.c`](./Level-02/27_function_types_practice.c) — Demonstration of all 4 function return/parameter combinations.
+17. [`28_local_global_scope.c`](./Level-02/28_local_global_scope.c) — Contrasting local and global scope behaviors.
 
 ---
 
