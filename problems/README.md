@@ -9,7 +9,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 | Tier | Directory | Focus Area | Problems Count |
 | :--- | :--- | :--- | :---: |
 | **Level-01** | [`Level-01/`](./Level-01/) | I/O, Formatting, Operators & Conditional Branching | 10 Problems |
-| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns & Functions | 18 Problems |
+| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns, Functions & Recursion | 19 Problems |
 
 ---
 
@@ -48,6 +48,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 16. [`27_function_types_practice.c`](./Level-02/27_function_types_practice.c) — Demonstration of all 4 function return/parameter combinations.
 17. [`28_local_global_scope.c`](./Level-02/28_local_global_scope.c) — Contrasting local and global scope behaviors.
 18. [`29_static_counter.c`](./Level-02/29_static_counter.c) — Persistent call tracking using a static local counter.
+19. [`30_recursion_print_numbers.c`](./Level-02/30_recursion_print_numbers.c) — Recursive sequence generation 1 to 10.
 
 ---
 

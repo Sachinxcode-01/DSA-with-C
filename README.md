@@ -152,7 +152,8 @@ DSAwithC/
 │       ├── 26_calculator_return.c     # Calculation using returned values
 │       ├── 27_function_types_practice.c # 4 Function parameter/return variants
 │       ├── 28_local_global_scope.c    # Global vs local scope demonstration
-│       └── 29_static_counter.c        # Static variable execution counter
+│       ├── 29_static_counter.c        # Static variable execution counter
+│       └── 30_recursion_print_numbers.c # Recursive range print (1 to 10)
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   ├── function_intro.c               # Function declaration, call & definition
@@ -215,6 +216,7 @@ DSAwithC/
 | **26** | [`27_function_types_practice.c`](./problems/Level-02/27_function_types_practice.c) | 4 Function paradigms | All 4 permutations of parameters and return values |
 | **27** | [`28_local_global_scope.c`](./problems/Level-02/28_local_global_scope.c) | Variable scoping | Global vs local lifetime and accessibility |
 | **28** | [`29_static_counter.c`](./problems/Level-02/29_static_counter.c) | Static persistence | Function execution counter across invocations |
+| **29** | [`30_recursion_print_numbers.c`](./problems/Level-02/30_recursion_print_numbers.c) | Recursive execution | Base condition & recursive call to print 1 to 10 |
 
 ---
 
