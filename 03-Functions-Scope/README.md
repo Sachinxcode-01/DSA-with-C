@@ -18,7 +18,7 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 ## 📂 Recommended Programs to Implement
 
 | Program | Concept Demonstrated |
-|---------|----------------------|
+| --------- | ---------------------- |
 | [`function_intro.c`](./function_intro.c) | Function prototype, caller structure, definition |
 | [`function_parameters.c`](./function_parameters.c) | Passing arguments and receiving parameters by value |
 | [`function_return.c`](./function_return.c) | Returning values and capturing output in callers |
