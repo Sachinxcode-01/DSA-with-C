@@ -3,6 +3,9 @@
 *.o
 *.obj
 *.out
+*.ilk
+*.pdb
+*.idb
 output/
 **/output/
 
