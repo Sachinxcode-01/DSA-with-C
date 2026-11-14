@@ -29,6 +29,7 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 | [`27_function_types_practice.c`](./27_function_types_practice.c) | Comprehensive practice of function types |
 | [`local_scope.c`](./local_scope.c) | Local variable declaration & block-level lifetime |
 | [`global_scope.c`](./global_scope.c) | Global variable access across multiple functions |
+| [`static_variable.c`](./static_variable.c) | Static storage class persisting state between calls |
 | `function_basics.c` | Prototypes, return values, pure functions |
 | `call_by_value_vs_reference.c` | Swapping variables, pointer parameters |
 | `storage_classes.c` | Static persistent counters vs local variables |
