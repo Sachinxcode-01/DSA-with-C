@@ -25,6 +25,7 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 | [`type1_no_parameters_no_return.c`](./type1_no_parameters_no_return.c) | Function Type 1: Void return, void parameters |
 | [`type2_parameters_no_return.c`](./type2_parameters_no_return.c) | Function Type 2: Void return with parameters |
 | [`type3_no_parameters_return.c`](./type3_no_parameters_return.c) | Function Type 3: Value return with no parameters |
+| [`type4_parameters_return.c`](./type4_parameters_return.c) | Function Type 4: Value return with parameters |
 | `function_basics.c` | Prototypes, return values, pure functions |
 | `call_by_value_vs_reference.c` | Swapping variables, pointer parameters |
 | `storage_classes.c` | Static persistent counters vs local variables |
