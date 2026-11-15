@@ -153,7 +153,8 @@ DSAwithC/
 │       ├── 27_function_types_practice.c # 4 Function parameter/return variants
 │       ├── 28_local_global_scope.c    # Global vs local scope demonstration
 │       ├── 29_static_counter.c        # Static variable execution counter
-│       └── 30_recursion_print_numbers.c # Recursive range print (1 to 10)
+│       ├── 30_recursion_print_numbers.c # Recursive range print (1 to 10)
+│       └── 31_factorial_recursion.c   # Safe 64-bit recursive factorial
 │
 ├── 03-Functions-Scope/                # Modular programming & variable scope
 │   ├── function_intro.c               # Function declaration, call & definition
@@ -218,6 +219,7 @@ DSAwithC/
 | **27** | [`28_local_global_scope.c`](./problems/Level-02/28_local_global_scope.c) | Variable scoping | Global vs local lifetime and accessibility |
 | **28** | [`29_static_counter.c`](./problems/Level-02/29_static_counter.c) | Static persistence | Function execution counter across invocations |
 | **29** | [`30_recursion_print_numbers.c`](./problems/Level-02/30_recursion_print_numbers.c) | Recursive execution | Base condition & recursive call to print 1 to 10 |
+| **30** | [`31_factorial_recursion.c`](./problems/Level-02/31_factorial_recursion.c) | 64-Bit Recursion | Factorial with overflow protection (`0 <= n <= 20`) |
 
 ---
 
