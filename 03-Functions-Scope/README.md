@@ -33,6 +33,7 @@ Functions enable modular, reusable, and testable code. In C, understanding how a
 | [`recursion_intro.c`](./recursion_intro.c) | Introduction to recursion, base cases & call stack |
 | [`factorial_recursion.c`](./factorial_recursion.c) | Factorial computation using recursive call stack |
 | [`recursion_sum.c`](./recursion_sum.c) | Recursive natural numbers summation |
+| [`fibonacci_recursion.c`](./fibonacci_recursion.c) | Multiple recursion branch for Fibonacci sequence |
 | `function_basics.c` | Prototypes, return values, pure functions |
 | `call_by_value_vs_reference.c` | Swapping variables, pointer parameters |
 | `storage_classes.c` | Static persistent counters vs local variables |

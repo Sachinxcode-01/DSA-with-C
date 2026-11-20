@@ -171,7 +171,8 @@ DSAwithC/
 │   ├── static_variable.c              # Static persistence between invocations
 │   ├── recursion_intro.c              # Basic recursion with base conditions
 │   ├── factorial_recursion.c          # Recursive factorial calculation
-│   └── recursion_sum.c                # Recursive summation pattern
+│   ├── recursion_sum.c                # Recursive summation pattern
+│   └── fibonacci_recursion.c          # Multiple recursion branches (Fibonacci)
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration
