@@ -28,7 +28,7 @@ int main()
     {
         for(int i=0;i<n;i++)
         {
-            printf("Fibonacci Seq :%d",fibonacci(n));
+            printf("%d ",fibonacci(i));
         }
     }
 
