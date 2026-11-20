@@ -169,7 +169,8 @@ DSAwithC/
 │   ├── global_scope.c                 # Global scope & file-level lifetime
 │   ├── static_variable.c              # Static persistence between invocations
 │   ├── recursion_intro.c              # Basic recursion with base conditions
-│   └── factorial_recursion.c          # Recursive factorial calculation
+│   ├── factorial_recursion.c          # Recursive factorial calculation
+│   └── recursion_sum.c                # Recursive summation pattern
 │
 ├── .vscode/                           # Pre-configured debug & build setup
 │   ├── launch.json                    # GDB debugger configuration

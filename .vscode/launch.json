@@ -29,10 +29,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "${workspaceFolder}/01-C-Basics",
-      "program": "${workspaceFolder}/01-C-Basics/build/Debug/outDebug.exe",
+      "cwd": "c:/Users/kalin/OneDrive/Documents/Projects/DSAwithC/03-Functions-Scope",
+      "program": "c:/Users/kalin/OneDrive/Documents/Projects/DSAwithC/03-Functions-Scope/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",
