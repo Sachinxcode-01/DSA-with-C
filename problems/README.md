@@ -9,7 +9,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 | Tier | Directory | Focus Area | Problems Count |
 | :--- | :--- | :--- | :---: |
 | **Level-01** | [`Level-01/`](./Level-01/) | I/O, Formatting, Operators & Conditional Branching | 10 Problems |
-| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns, Functions & Recursion | 21 Problems |
+| **Level-02** | [`Level-02/`](./Level-02/) | Iteration (For, While), Math, Factorials, Patterns, Functions & Recursion | 22 Problems |
 
 ---
 
@@ -51,6 +51,7 @@ A curated, two-tier collection of graded programming challenges designed to tran
 19. [`30_recursion_print_numbers.c`](./Level-02/30_recursion_print_numbers.c) — Recursive sequence generation 1 to 10.
 20. [`31_factorial_recursion.c`](./Level-02/31_factorial_recursion.c) — Safe 64-bit recursive factorial with overflow bounds checks.
 21. [`32_sum_natural_recursion.c`](./Level-02/32_sum_natural_recursion.c) — Sum of natural numbers up to N using recursion.
+22. [`33_fibonacci_recursion.c`](./Level-02/33_fibonacci_recursion.c) — Fibonacci sequence generation using tree recursion.
 
 ---
 
